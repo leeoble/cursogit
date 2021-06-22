@@ -1,1 +1,7 @@
 este es la primera linea antes de ADD
+
+Ya sucedio el Add y ahora despues de guardar, el commit
+
+No se agrego, eso quiere decir que hay que usar ADD cada vez
+
+si ves esta linea despues de un nuevo add y commit quiere decir que la linea de arriba es correcta
