@@ -8,6 +8,8 @@ main{
     border: 1px solid gray;
     margin: 50px auto;
     text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 15px;
 }
 main h1{
     font-size: 28px;
