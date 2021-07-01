@@ -9,7 +9,6 @@ main{
     margin: 50px auto;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-left: 15px;
 }
 main .cabecera{
     width: 100%;
@@ -25,7 +24,7 @@ main .cabecera{
     color: white;
     font-size: 30px;
     font-weight: bold;
-    margin-left: 15px;
+    padding-left: 15px;
 }
 .cabecera span:last-child{
     font-size: 20px;
@@ -36,8 +35,10 @@ main h1{
     font-size: 28px;
     padding: 15px 0;
     font-weight: bold;
+    padding-left: 15px;
 }
 main p{
     font-size: 20px;
     padding-bottom: 15px;
+    padding-left: 15px;
 }
