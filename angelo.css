@@ -1,0 +1,27 @@
+body{
+    background-color: greenyellow;
+    color: black;
+    text-align: center;
+}
+body p{
+    font-size: 30px;
+}
+body p:last-child{
+    font-size: 50px;
+    color: rebeccapurple;
+}
+.conejo{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.cabeza{
+    width: 200px;
+    height: 180px;
+    background-color: white;
+    border-radius: 50%;
+    
+}
